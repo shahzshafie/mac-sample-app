@@ -1,7 +1,7 @@
 ﻿using XFMacApp.GTK.Services;
 using Gtk;
-using Xamarin.Forms;
 using Xamarin.Forms.Platform.GTK;
+using Xamarin.Forms;
 
 namespace XFMacApp.GTK
 {
